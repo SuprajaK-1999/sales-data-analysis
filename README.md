@@ -25,9 +25,9 @@ This project analyzes sales data using Microsoft Excel. The project includes dat
 - Monthly sales changed significantly across the selected months
 
 ## Files Included
-- `sales-data-analysis.xlsx` - Excel file with data, analysis, and dashboard
-- `dashboard.png` - Screenshot of the dashboard
-- `sales.csv` - Raw dataset (if uploaded)
+- `Sales-data-analysis.xlsx` - Excel file with data, analysis, and dashboard
+- `Dashboard.png` - Screenshot of the dashboard
+- `Sales.xlsx` - Raw dataset (if uploaded)
 
 ## What I Learned
 - How to clean and organize data in Excel
