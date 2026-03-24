@@ -27,7 +27,7 @@ This project analyzes sales data using Microsoft Excel. The project includes dat
 ## Files Included
 - `sales-data-analysis.xlsx` - Excel file with data, analysis, and dashboard
 - `dashboard.png` - Screenshot of the dashboard
-- `sales-data.csv` - Raw dataset (if uploaded)
+- `sales.csv` - Raw dataset (if uploaded)
 
 ## What I Learned
 - How to clean and organize data in Excel
