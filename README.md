@@ -17,7 +17,7 @@ This project analyzes sales data using Microsoft Excel. The project includes dat
 - Present findings in a dashboard format
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key Insights
 - Technology generated the highest sales among all categories
